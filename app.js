@@ -3,7 +3,7 @@ const sub = document.querySelector(".sub");
 const number  = document.querySelector(".number");
 const add_to_cart = document.querySelector(".add_to_cart")
 
-let sum = 0;
+let sum = 1;
 sub.disabled = true;
 
 let adding = add.addEventListener("click", function(){
