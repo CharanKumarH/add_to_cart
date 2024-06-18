@@ -14,7 +14,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
+    /* position: absolute; */
     background-color:rgb(3, 215, 3);
     color: #000000;
     border:none;
